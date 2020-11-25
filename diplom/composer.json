@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "diplom\\": "vendor/diplom/core",
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "gabordemooij/redbean": "dev-master"
+  }
+}

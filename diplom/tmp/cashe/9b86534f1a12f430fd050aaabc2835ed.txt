@@ -1,0 +1,41 @@
+a:2:{s:4:"data";s:1122:"<li>
+    <a href="category/men">Мужчинам</a>
+            <ul>
+            <li>
+    <a href="category/glasses">Очки</a>
+            <ul>
+            <li>
+    <a href="category/casio">Casio</a>
+    </li><li>
+    <a href="category/citizen">Citizen</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/linse">Линзы</a>
+            <ul>
+            <li>
+    <a href="category/royal-london">Royal London</a>
+    </li><li>
+    <a href="category/seiko">Seiko</a>
+    </li><li>
+    <a href="category/epos">Epos</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li><li>
+    <a href="category/women">Женщинам</a>
+            <ul>
+            <li>
+    <a href="category/glasses-2">Очки</a>
+            <ul>
+            <li>
+    <a href="category/adriatica">Adriatica</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/linse-2">Линзы</a>
+            <ul>
+            <li>
+    <a href="category/anne-klein">Anne Klein</a>
+    </li>        </ul>
+    </li>        </ul>
+    </li><li>
+    <a href="category/kids">Детям</a>
+    </li>";s:8:"end_time";i:1588591871;}
